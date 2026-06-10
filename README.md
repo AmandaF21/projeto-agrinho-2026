@@ -1,2 +1,2 @@
-/*Agro Forte, Futuro Sustentável*/
+*Agro Forte, Futuro Sustentável*                                                                                                      
 O futuro do planeta depende das escolhas que fazemos hoje no campo. Nós acreditamos que a força do agronegócio não se mede apenas pela quantidade da colheita, mas pelo respeito à terra que nos alimenta. O verdadeiro progresso nasce do equilíbrio perfeito entre a alta produtividade agrícola e a preservação ambiental.

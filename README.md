@@ -11,3 +11,5 @@ Exibe estatísticas relacionadas à economia de recursos, aumento de produtivida
 
 ### 🌱 Pilares da Sustentabilidade
 Mostra os principais conceitos que sustentam um modelo agrícola moderno e sustentável.
+
+## Desenvolvido por Amanda Ferreira
